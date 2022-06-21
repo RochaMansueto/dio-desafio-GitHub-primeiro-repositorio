@@ -1,0 +1,13 @@
+# DESCRITIVO DO CURSO
+
+##Neste curso o aluno é introduzido a todo o contexto do pensamento computacional, da lógica e da programação, ele é composto por cinco atividadesdistintas, com características próprias e compostas na trilha educacional.
+
+###:thinking: Atividade1- Pensamento Computacional :computer:
+
+###:thinking: Atividade-2 Introdução à lógica de programação
+
+###:arrow_forward: Atividade 3- Fundamentos de Algoritmos
+
+###:eight_pointed_black_star: Atividade 4- Linguagens de Programação
+
+###:1st_place_medal::computer: Atividade 5- Primeiro contato com a programação. 

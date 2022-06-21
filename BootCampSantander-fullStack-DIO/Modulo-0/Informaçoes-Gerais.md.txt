@@ -1,0 +1,13 @@
+# :book: INFORMAÇÕES SOBRE O MODULO :book:
+
+
+
+##Este modulo foi composto por quatro atividades, todas introdutorias e com o objetivo de familiarização com a plataforma e ambiente de estudos, assim foi possibilitado melhor compreensão do que seria abordado e como seria abordado;
+
+###:rocket: Atividade 1- Conheça as Oportunidades da DIO
+
+###:star: Atividade g2- Seja ProtaGonista neste BootCamp	
+
+###:handshake: Atividade 3- Boas-vindas ao Santander Bootcamp Fullstack Developer
+
+###:classical_building: Atividade 4- Aula InauGural - Santander Bootcamp Fullstack Devoloper

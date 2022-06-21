@@ -1,0 +1,9 @@
+# Informações modulares :information_source::bookmark:
+
+##Este módulo é composto por três atividades distintas, tendocomo objetivo apresentar o aluno aos conceitos do pensamento computacional, e alogica do mesmo, introduzindo este a conceitos básicos e importantes para odesenvolvimento da profissão, bem como a ferramentas como o Git e o GitHub.
+
+###:computer: Atividade 1- Introdução à programação e pensamentocomputacional.
+
+###:cat: Atividade 2- Introdução ao Git e ao GitHub
+
+###:cat2: Atividade 3- Criando seu primeiro repositório no GitHub paracompartilhar seu Progresso.

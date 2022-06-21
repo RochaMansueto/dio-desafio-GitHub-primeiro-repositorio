@@ -1,0 +1,19 @@
+#INFORMATIVO MODULAR :information_desk_person:
+
+
+
+##:page_with_curl: Neste curso foi apresentado as ferramentas git e github de forma prática, como usar, o porque utilizar, formas de navegações, funcionalidades, ciclos de vida e conflitos comuns. O curso foi composto por sete atividades;
+
+###:cat: Atividade 1- Introdução ao git
+
+###:desktop_computer: Atividade 2- Navegação via command line interface e instalação
+
+###:pensive: Atividade 3- Entendendo como o git funcional por baixo dos panos
+
+###:1st_place_medal: Atividade 4- Primeiros comandos com o git
+
+###:arrows_clockwise: Atividade 5- Ciclo de vida dos arquivos no git
+
+###:cat2: Atividade 6- Introdução ao GitHub
+
+###:accept: Atividade 7- Resolvendo conflitos.
